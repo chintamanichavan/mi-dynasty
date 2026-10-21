@@ -1,0 +1,12 @@
+[project]
+name = "mi-dynasty"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bpy>=5.1.2",
+    "imageio>=2.37.3",
+    "imageio-ffmpeg>=0.6.0",
+    "skia-python>=144.0.post2",
+]
